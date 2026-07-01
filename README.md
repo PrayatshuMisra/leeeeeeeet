@@ -350,21 +350,7 @@
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
-## String
-|  |
-| ------- |
-| [0008-string-to-integer-atoi](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0008-string-to-integer-atoi) |
-| [0012-integer-to-roman](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0012-integer-to-roman) |
-| [0020-valid-parentheses](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0020-valid-parentheses) |
-| [0058-length-of-last-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0058-length-of-last-word) |
-| [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
-| [0125-valid-palindrome](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0125-valid-palindrome) |
-| [0171-excel-sheet-column-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0171-excel-sheet-column-number) |
-| [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
-| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
-| [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
-| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
-| [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
+
 ## Tree
 |  |
 | ------- |
@@ -401,3 +387,23 @@
 | [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0520-detect-capital) |
+| [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
+<!---LeetCode Topics End-->
